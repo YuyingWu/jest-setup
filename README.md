@@ -1,11 +1,11 @@
-# Jest Setup
+# Parcel Setup
 
-Yet another Jest starter kit, based on `Parcel.js`, `Babel` and `Jest`.
+Yet another JavaScript starter kit, based on `Parcel.js`, `Babel`, `ReactJS` and `Jest`.
 
 ## How to start
 
 ```
-git clone git@github.com:YuyingWu/jest-setup.git
+git clone git@github.com:YuyingWu/parcel-setup.git
 
 npm install
 
@@ -23,7 +23,7 @@ Now, all you need to do is:
 ## Branches
 
 ```
-git clone git@github.com:YuyingWu/jest-setup.git
+git clone git@github.com:YuyingWu/parcel-setup.git
 git checkout { branch-name-here }
 ```
 
