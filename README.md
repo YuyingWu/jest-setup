@@ -28,5 +28,5 @@ git checkout { branch-name-here }
 ```
 
 `master`, babel + Jest;  
-`react`, babel + Jest + React;
+`react`, babel + Jest + React;  
 `jest-tutorial`, some demos from Docs of Jest.
